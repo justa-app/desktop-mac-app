@@ -1,0 +1,46 @@
+.setting-wrapper {
+  width: 100%;
+  max-width: 360px;
+  padding: 0 15px;
+}
+.setting-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.setting-title {
+  font-size: 30px;
+  font-weight: 900;
+  color: #1F233A;
+  margin-bottom: 30px;
+}
+.setting-body {
+  margin-bottom: 90px;
+}
+.setting-btn {
+  color: #fff;
+  background-color: #546FE0;
+  border: none;
+  width: 100%;
+  border-radius: 4px;
+  font-weight: 700;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+.setting-signup {
+  color: #70798E;
+  
+
+}
+.setting-signup span {padding-right: 10px;}
+.setting-signup a {
+  color:#2F4DD8;
+}
+
+.setting-privacy {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  color: #70798E;
+  font-size: 14px;
+}
